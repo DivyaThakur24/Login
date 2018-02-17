@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitTest</string>
+    <string name="term">By signing up, you confirm that you have read and agree to our <b>Terms &amp; Conditions</b> and <b>Privacy Policy</b>.</string>
+
 </resources>
